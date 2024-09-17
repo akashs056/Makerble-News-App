@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MakerableNewsApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimaryDark">@color/blue</item>
+    </style>
+
+    <style name="Theme.MakerableNewsApp" parent="Base.Theme.MakerableNewsApp" />
+</resources>
